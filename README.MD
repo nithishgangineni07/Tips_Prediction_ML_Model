@@ -5,26 +5,7 @@ This project demonstrates a complete end-to-end Machine Learning application, in
 
 📁 Project Structure
 
-ML_Project/
-│
-├── backend/
-│   ├── data/
-│   │   └── load_data.py
-│   │
-│   ├── model/
-│   │   └── train_model.py
-│   │
-│   ├── app.py
-│   ├── train_save.py
-│   └── requirements.txt
-│
-├── frontend/
-│   ├── app.py
-│   └── requirements.txt
-│
-├── venv/
-│
-└── README.md
+![alt text](image.png)
 
 
 ⚙️ Environment Setup
