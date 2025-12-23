@@ -1,0 +1,6 @@
+pandas
+seaborn
+scikit-learn
+joblib
+flask
+flask_cors
