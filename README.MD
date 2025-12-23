@@ -3,10 +3,6 @@
 
 This project demonstrates a complete end-to-end Machine Learning application, including environment setup, backend model training, and frontend deployment using Streamlit.
 
-📁 Project Structure
-
-![alt text](image.png)
-
 
 ⚙️ Environment Setup
 Step 1: Create Project Folder
